@@ -3,7 +3,7 @@ Este es un script de utilidad en MATLAB para cargar y comparar gráficamente dos
 
 Proyecto académico realizado por **Galindo Barbosa Israel Aldahir** y **Herrera Godoy Hazael** para **ESIME ZACATENCO - IPN**.
 
-## 🚀 Características Principales
+## Características Principales
 * **Carga de Datos:** Solicita al usuario que seleccione dos archivos `.s2p` por separado (Ej. Fase 1 y Fase 2).
 * **Procesamiento:** Aplica un suavizado a ambas curvas para facilitar la comparación.
 * **Visualización Comparativa:**
@@ -11,7 +11,7 @@ Proyecto académico realizado por **Galindo Barbosa Israel Aldahir** y **Herrera
     * Dibuja las 4 zonas de frecuencia según la norma **IEEE C57.149-2012**.
 * **Exportación:** Permite guardar la gráfica comparativa en formato `.png` de alta resolución.
 
-## ⚙️ Uso
+## Uso
 1.  Ejecute el script en MATLAB.
 2.  Seleccione el primer archivo `.s2p` (Ej. "Referencia Fase 1").
 3.  Seleccione el segundo archivo `.s2p` (Ej. "Referencia Fase 2").
